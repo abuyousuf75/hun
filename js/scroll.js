@@ -35,7 +35,7 @@ $(window).scroll(function(){
 
 $(window).on('load',function(){
 
-    $('.preloder').delay(3000).fadeOut(500);
+    $('.preloder').delay(1500).fadeOut(500);
 
 
 });
